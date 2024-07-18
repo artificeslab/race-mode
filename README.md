@@ -3,6 +3,8 @@ The definitive race game mode for Halo Infinite
 
 [Bookmark Here!](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/modes/6ff26100-5290-4499-b51e-34e2a93de059)
 
+![Race Mode Thumbnail](https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/ugcgamevariant/6ff26100-5290-4499-b51e-34e2a93de059/0d811590-42de-46a9-9650-1d222cc511fa/images/screenshot1.jpg)
+
 ## Settings
 Match -> Score to Win = Number of Laps
 
