@@ -20,7 +20,7 @@ The definitive race game mode for Halo Infinite
 ## How to Play
 Bookmark and play the race game mode [here.](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/modes/6ff26100-5290-4499-b51e-34e2a93de059)
 
-Checkout compatible maps [here.](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/browse?page=1&tags=arace)
+Checkout compatible maps [here.](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/browse?assetKind=Map&page=1&tags=arace)
 
 ### Settings
 Play the mode exactly how you want with these customs settings. For the minigame object settings, include = true and exclude = false.
@@ -34,6 +34,8 @@ Play the mode exactly how you want with these customs settings. For the minigame
 | Mini Vehicles | Minigame -> Use 'Minigame Object 3' | Exclude |
 | Allow all players to finish | Minigame -> Use 'Minigame Object 4' | Exclude |
 | Show Checkpoints | Minigame -> Use 'Minigame Object 5' | Exclude |
+
+Checkout Forks of the mode with preset settings [here.](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/browse?assetKind=UgcGameVariant&page=1&tags=arace)
 
 ## Map Setup
 ### Settings Objects
