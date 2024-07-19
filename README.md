@@ -39,8 +39,10 @@ Check out Forks of the mode with preset settings [here.](https://www.halowaypoin
 
 ## Map Setup
 ### Settings Objects
+https://www.halowaypoint.com/en-gb/halo-infinite/ugc/prefabs/2dabd8d5-d7f7-44cb-8795-d2a175d10228
 ### Initial Spawns
 ### Checkpoints
+https://www.halowaypoint.com/en-gb/halo-infinite/ugc/prefabs/39693a0a-eae0-4e28-be4a-f9dad8fe0149
 ### Debugging
 ### Metadata
 To make it easier to identify maps that are compatible with the mode, I recommend adding the tag `ARace` to your map.
