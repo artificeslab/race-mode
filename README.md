@@ -11,6 +11,7 @@ The definitive race game mode for Halo Infinite
   - [Initial Spawns](#initial-spawns)
   - [Checkpoints](#checkpoints)
   - [Debugging](#debugging)
+  - [Metadata](#metadata)
 
 
 
@@ -39,3 +40,8 @@ Play the mode exactly how you want with these customs settings. For the minigame
 ### Initial Spawns
 ### Checkpoints
 ### Debugging
+### Metadata
+To make it easier to identify maps that are compatible with the mode, I recommend adding the tag `ARace` to your map.
+
+Another thing you can do to help make your map identifiable at a glance is to overlay the following image on your map thumbnail.
+![Thumbnail Overlay](https://cdn.discordapp.com/attachments/1262918449009660025/1263308979820560445/RaceBoarder.png?ex=669a6c6b&is=66991aeb&hm=203ea39fde9932d6ba31f18bc15673157383b9209745d15587ab4e2a45749cfd&)
