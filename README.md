@@ -24,17 +24,15 @@ Checkout compatible maps [here.](Supported-Maps.md)
 ### Settings
 This mode has some custom settings that can be changed to help play exactly how you want. For the minigame object settings, include = true and exclude = false.
 
-Match -> Score to Win = Number of Laps (Default: 3)
 
-Minigame -> Spawn in Vehicle = Vehicle for Race (Default: Mongoose)
-
-Minigame -> Use 'Minigame Object 2' = Force Stay in Vehicle (Default: Include)
-
-Minigame -> Use 'Minigame Object 3' = Mini Vehicles (Default: Exclude)
-
-Minigame -> Use 'Minigame Object 4' = Allow all players to finish (Default: Exclude)
-
-Minigame -> Use 'Minigame Object 5' = Show Checkpoints (Default: Exclude)
+| Setting | Location in Menu | Default Value |
+| ------- | ---------------- | ------------- |
+| Number of Laps | Match -> Score to Win | 3 |
+| Vehicle for Race | Minigame -> Spawn in Vehicle | Mongoose |
+| Force Stay in Vehicle | Minigame -> Use 'Minigame Object 2' | Include |
+| Mini Vehicles | Minigame -> Use 'Minigame Object 3' | Exclude |
+| Allow all players to finish | Minigame -> Use 'Minigame Object 4' | Exclude |
+| Show Checkpoints | Minigame -> Use 'Minigame Object 5' | Exclude |
 
 ## Map Setup
 ### Settings Objects
