@@ -22,7 +22,7 @@ Bookmark and play the race game mode [here.](https://www.halowaypoint.com/en-gb/
 Checkout compatible maps [here.](Supported-Maps.md)
 
 ### Settings
-This mode has some custom settings that can be changed to help play exactly how you want. For the minigame object settings, include = true and exclude = false.
+Play the mode exactly how you want with these customs settings. For the minigame object settings, include = true and exclude = false.
 
 
 | Setting | Location in Menu | Default Value |
