@@ -1,11 +1,13 @@
 # race-mode
 The definitive race game mode for Halo Infinite
 
+[Bookmark Here!](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/modes/6ff26100-5290-4499-b51e-34e2a93de059)
+
 ## Table of Contents
 [Settings](#settings)
 
+[Map Setup](#map-setup)
 
-[Bookmark Here!](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/modes/6ff26100-5290-4499-b51e-34e2a93de059)
 
 ![Race Mode Thumbnail](https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/ugcgamevariant/6ff26100-5290-4499-b51e-34e2a93de059/0d811590-42de-46a9-9650-1d222cc511fa/images/screenshot1.jpg)
 
@@ -21,3 +23,5 @@ Minigame -> Use 'Minigame Object 3' = Mini Vehicles
 Minigame -> Use 'Minigame Object 4' = Allow all players to finish (when set to exclude the mode will end after 30 seconds once the first player finished)
 
 Minigame -> Use 'Minigame Object 5' = Show Checkpoints
+
+## Map Setup
