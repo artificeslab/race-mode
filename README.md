@@ -39,9 +39,14 @@ Check out Forks of the mode with preset settings [here.](https://www.halowaypoin
 
 ## Map Setup
 ### Settings Objects
+Add this prefab to your race map to ensure the configurable minigame object settings work. Without it all the settings will always be set to exclude no matter what the player has set. 
 https://www.halowaypoint.com/en-gb/halo-infinite/ugc/prefabs/2dabd8d5-d7f7-44cb-8795-d2a175d10228
 ### Initial Spawns
+Place initial spawns at the start of the track for players to spawn at. Set them far enough apart from eachother so the vehicles aren't touching when theh spawn in. If you are setting this mode up on a map with existing initial spawns you will have to set them to minigame exclude however this may conflict with other modes.
 ### Checkpoints
+Each checkpoint needs at least 1 spawn point attached to it via prefabbing. Any spawn point not attached to checkpoint will be disabled. 
+
+Checkpoints are set in the order they are placed on the map however unprefabbing and then duplicating can mess with the order. So, the best way to set the map up is to add all the checkpoints to the map first, and then going through to resize and modify spawns. 
 https://www.halowaypoint.com/en-gb/halo-infinite/ugc/prefabs/39693a0a-eae0-4e28-be4a-f9dad8fe0149
 ### Debugging
 ### Metadata
