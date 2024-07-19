@@ -20,7 +20,7 @@ The definitive race game mode for Halo Infinite
 ## How to Play
 Bookmark and play the race game mode [here.](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/modes/6ff26100-5290-4499-b51e-34e2a93de059)
 
-Checkout compatible maps [here.](Supported-Maps.md)
+Checkout compatible maps [here.](https://www.halowaypoint.com/en-gb/halo-infinite/ugc/browse?page=1&tags=arace)
 
 ### Settings
 Play the mode exactly how you want with these customs settings. For the minigame object settings, include = true and exclude = false.
